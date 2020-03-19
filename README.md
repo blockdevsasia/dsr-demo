@@ -16,13 +16,13 @@ The DSR logic is implemented in src/components/DsrDemo.js
  - You can generate Kovan Dai here: https://oasis.app/borrow?network=kovan
 
 ### Steps to run the example:
- - Navigate to `dsr` folder 
- - run `npm install`
- - run `npm start`
+ - run `npm install` or `yarn `
+ - run `npm start` or `yarn start `
 
 
  ### References and Guides
 - [MakerDAO docs](https://docs.makerdao.com/)
 - [Dai.js repository](https://github.com/makerdao/dai.js)
 - [Integration Examples](https://github.com/makerdao/integration-examples)
+- [DSR Integration Example](https://github.com/makerdao/integration-examples/tree/master/dsr)
 - [DSR Integration Guide](https://github.com/makerdao/developerguides/blob/master/dai/dsr-integration-guide/dsr-integration-guide-01.md#how-to-integrate-with-daijs)
